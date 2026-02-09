@@ -3,7 +3,7 @@ import streamlit as st
 st.title("NDEYE MATY SALL")
 
 with st.sidebar:
-    st.image("images/MATY.jpeg",width=200)
+    st.image("MATY.jpeg",width=200)
 
     st.write("Ndeye Maty Sall")
 
